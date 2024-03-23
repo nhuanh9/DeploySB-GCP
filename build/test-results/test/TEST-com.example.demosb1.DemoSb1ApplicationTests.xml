@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.demosb1.DemoSb1ApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-23T21:06:20" hostname="THANHMAI" time="1.104">
+<testsuite name="com.example.demosb1.DemoSb1ApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-23T21:40:22" hostname="THANHMAI" time="1.022">
   <properties/>
-  <testcase name="contextLoads()" classname="com.example.demosb1.DemoSb1ApplicationTests" time="1.104"/>
-  <system-out><![CDATA[04:06:18.395 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.demosb1.DemoSb1ApplicationTests]: DemoSb1ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
-04:06:18.516 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.demosb1.DemoSb1Application for test class com.example.demosb1.DemoSb1ApplicationTests
+  <testcase name="contextLoads()" classname="com.example.demosb1.DemoSb1ApplicationTests" time="1.022"/>
+  <system-out><![CDATA[04:40:20.015 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.demosb1.DemoSb1ApplicationTests]: DemoSb1ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+04:40:20.156 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.demosb1.DemoSb1Application for test class com.example.demosb1.DemoSb1ApplicationTests
 
   .   ____          _            __ _ _
  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
@@ -13,9 +13,9 @@
  =========|_|==============|___/=/_/_/_/
  :: Spring Boot ::                (v3.2.3)
 
-2024-03-24T04:06:18.970+07:00  INFO 19132 --- [    Test worker] c.e.demosb1.DemoSb1ApplicationTests      : Starting DemoSb1ApplicationTests using Java 17.0.10 with PID 19132 (started by Phuong in D:\CodeGym\Module 4\DemoSB1)
-2024-03-24T04:06:18.972+07:00  INFO 19132 --- [    Test worker] c.e.demosb1.DemoSb1ApplicationTests      : No active profile set, falling back to 1 default profile: "default"
-2024-03-24T04:06:20.410+07:00  INFO 19132 --- [    Test worker] c.e.demosb1.DemoSb1ApplicationTests      : Started DemoSb1ApplicationTests in 1.706 seconds (process running for 3.221)
+2024-03-24T04:40:20.706+07:00  INFO 11160 --- [    Test worker] c.e.demosb1.DemoSb1ApplicationTests      : Starting DemoSb1ApplicationTests using Java 17.0.10 with PID 11160 (started by Phuong in D:\CodeGym\Module 4\DemoSB1)
+2024-03-24T04:40:20.706+07:00  INFO 11160 --- [    Test worker] c.e.demosb1.DemoSb1ApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2024-03-24T04:40:22.420+07:00  INFO 11160 --- [    Test worker] c.e.demosb1.DemoSb1ApplicationTests      : Started DemoSb1ApplicationTests in 1.998 seconds (process running for 3.815)
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
